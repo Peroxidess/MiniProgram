@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+<text class="title">hellow world</text>
+<text class="sub_title">stactic world</text>
+<button size="mini">按钮</button>

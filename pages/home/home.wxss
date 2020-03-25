@@ -1,0 +1,9 @@
+/* pages/home/home.wxss */
+.title{
+  color: rgb(97, 32, 158);
+  font-size: 30px;
+}
+.sub_title{
+  color: rgb(196, 29, 43);
+  font-size: 10px;
+}
